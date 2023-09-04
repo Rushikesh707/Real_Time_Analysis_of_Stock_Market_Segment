@@ -7,7 +7,6 @@ This innovative platform harnesses the power of modern technologies, including A
 2. start first 3 tab mysql and apache and filezilla
 3. create database with name "trading"
 4. create table with following script:
-5. CREATE TABLE users ( id int(11) NOT NULL AUTO_INCREMENT, fname varchar(255) DEFAULT NULL, lname varchar(255) DEFAULT NULL, username varchar(300) DEFAULT NULL, email varchar(300) DEFAULT NULL, password
-6. varchar(300) DEFAULT NULL, date date NOT NULL, image varchar(100) DEFAULT NULL, PRIMARY KEY (id) );
+CREATE TABLE users ( id int(11) NOT NULL AUTO_INCREMENT, fname varchar(255) DEFAULT NULL, lname varchar(255) DEFAULT NULL, username varchar(300) DEFAULT NULL, email varchar(300) DEFAULT NULL, password varchar(300) DEFAULT NULL, date date NOT NULL, image varchar(100) DEFAULT NULL, PRIMARY KEY (id) );
 7. store all the files in xampp/htdocs/projectname
 8. to run open crome and add localhost/projectname/filename
