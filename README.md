@@ -5,7 +5,8 @@ This innovative platform harnesses the power of modern technologies, including A
 # Screenshot
 ![Screenshot 2023-09-05 004658](https://github.com/Rushikesh707/Task-2/assets/128886800/1f0e6907-1f6e-476d-b866-6805516882bd)
 ![Screenshot 2023-09-04 233449](https://github.com/Rushikesh707/Task-2/assets/128886800/b67a994e-e1b1-474b-b91b-594b4796e77c)
-![Screenshot 2023-09-05 005247](https://github.com/Rushikesh707/Task-2/assets/128886800/10c5c52f-c825-4eed-9824-1106e96c65e7)
+![Screenshot (302)](https://github.com/Rushikesh707/Task-2/assets/128886800/3ac94784-057a-4708-af83-81c730e28e6f)
+![Screenshot (303)](https://github.com/Rushikesh707/Task-2/assets/128886800/ed334440-40ae-4cdd-a677-1a5a761442ad)
 # Install dependencies and set up project
 1. Install xampp server and install
 2. start first 3 tab mysql and apache and filezilla
