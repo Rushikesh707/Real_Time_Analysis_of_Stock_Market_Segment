@@ -9,4 +9,4 @@ This innovative platform harnesses the power of modern technologies, including A
 4. create table with following script:
 CREATE TABLE users ( id int(11) NOT NULL AUTO_INCREMENT, fname varchar(255) DEFAULT NULL, lname varchar(255) DEFAULT NULL, username varchar(300) DEFAULT NULL, email varchar(300) DEFAULT NULL, password varchar(300) DEFAULT NULL, date date NOT NULL, image varchar(100) DEFAULT NULL, PRIMARY KEY (id) );
 7. store all the files in xampp/htdocs/projectname
-8. to run open crome and add localhost/projectname/filename
+8. to run open crome and add localhost/projectname/filename i.e http://localhost/project/login.php
